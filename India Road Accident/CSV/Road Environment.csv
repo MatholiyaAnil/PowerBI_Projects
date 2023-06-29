@@ -1,0 +1,186 @@
+S.No,States/UTs,Road Environment,Total Accidents,Persons Killed,Greviously Injured,Minor Injury
+1,Andhra Pradesh,Residential Area,5164,1891,1535,3476
+2,Arunachal Pradesh,Residential Area,35,16,24,12
+3,Assam,Residential Area,1479,619,1106,113
+4,Bihar,Residential Area,1678,1295,1306,75
+5,Chhattisgarh,Residential Area,3071,1195,398,2331
+6,Goa,Residential Area,943,79,67,213
+7,Gujarat,Residential Area,2757,1170,1388,1062
+8,Haryana,Residential Area,1104,490,163,690
+9,Himachal Pradesh,Residential Area,316,133,156,266
+10,Jharkhand,Residential Area,1021,735,616,153
+11,Karnataka,Residential Area,3972,893,2355,2131
+12,Kerala,Residential Area,3120,341,2533,918
+13,Madhya Pradesh,Residential Area,9782,2237,1148,8478
+14,Maharashtra*,Residential Area,9020,3164,5113,2342
+15,Manipur,Residential Area,176,52,57,193
+16,Meghalaya,Residential Area,80,54,38,69
+17,Mizoram,Residential Area,34,20,11,13
+18,Nagaland,Residential Area,68,8,22,27
+19,Orissa,Residential Area,1663,743,869,692
+20,Punjab,Residential Area,945,803,354,175
+21,Rajasthan,Residential Area,3290,1299,655,2360
+22,Sikkim,Residential Area,17,9,21,19
+23,Tamil Nadu,Residential Area,9993,2563,4173,5709
+24,Telangana,Residential Area,3989,1145,544,3255
+25,Tripura,Residential Area,177,74,198,3
+26,Uttarakhand,Residential Area,284,130,163,50
+27,Uttar Pradesh,Residential Area,6796,3749,2990,1535
+28,West Bengal,Residential Area,3937,1709,2777,596
+29,A & N Islands,Residential Area,52,9,8,36
+30,Chandigarh,Residential Area,11,2,2,8
+31,D & N Haveli,Residential Area,77,40,56,53
+32,Daman & Diu,Residential Area,0,0,0,0
+33,Delhi,Residential Area,533,103,23,562
+34,Jammu & Kashmir,Residential Area,923,114,355,581
+35,Ladakh,Residential Area,52,14,11,56
+36,Lakshadweep,Residential Area,4,1,0,6
+37,Puducherry,Residential Area,228,22,93,139
+1,Andhra Pradesh,Institutional Area,1279,422,540,947
+2,Arunachal Pradesh,Institutional Area,28,14,27,16
+3,Assam,Institutional Area,822,309,530,60
+4,Bihar,Institutional Area,645,479,591,14
+5,Chhattisgarh,Institutional Area,508,184,80,372
+6,Goa,Institutional Area,367,21,24,78
+7,Gujarat,Institutional Area,946,472,497,417
+8,Haryana,Institutional Area,579,236,124,349
+9,Himachal Pradesh,Institutional Area,95,34,61,70
+10,Jharkhand,Institutional Area,405,274,264,123
+11,Karnataka,Institutional Area,2271,606,1312,1131
+12,Kerala,Institutional Area,1159,123,918,366
+13,Madhya Pradesh,Institutional Area,2934,590,386,2593
+14,Maharashtra*,Institutional Area,1650,694,887,347
+15,Manipur,Institutional Area,27,8,6,33
+16,Meghalaya,Institutional Area,11,6,10,1
+17,Mizoram,Institutional Area,0,0,0,0
+18,Nagaland,Institutional Area,40,0,15,13
+19,Orissa,Institutional Area,683,255,441,250
+20,Punjab,Institutional Area,589,451,265,112
+21,Rajasthan,Institutional Area,745,248,195,471
+22,Sikkim,Institutional Area,18,4,15,16
+23,Tamil Nadu,Institutional Area,7183,1926,2867,4239
+24,Telangana,Institutional Area,324,104,32,303
+25,Tripura,Institutional Area,77,26,79,0
+26,Uttarakhand,Institutional Area,35,21,23,5
+27,Uttar Pradesh,Institutional Area,3604,1900,1533,870
+28,West Bengal,Institutional Area,420,144,266,89
+29,A & N Islands,Institutional Area,10,3,2,7
+30,Chandigarh,Institutional Area,7,3,0,7
+31,D & N Haveli,Institutional Area,15,7,10,3
+32,Daman & Diu,Institutional Area,0,0,0,0
+33,Delhi,Institutional Area,401,142,24,374
+34,Jammu & Kashmir,Institutional Area,131,18,203,58
+35,Ladakh,Institutional Area,20,8,7,8
+36,Lakshadweep,Institutional Area,0,0,0,0
+37,Puducherry,Institutional Area,139,22,91,83
+1,Andhra Pradesh,Market/ Commercial area,2870,776,767,1806
+2,Arunachal Pradesh,Market/ Commercial area,84,54,78,40
+3,Assam,Market/ Commercial area,1591,595,1090,102
+4,Bihar,Market/ Commercial area,1330,981,1068,98
+5,Chhattisgarh,Market/ Commercial area,1278,370,189,971
+6,Goa,Market/ Commercial area,449,40,26,133
+7,Gujarat,Market/ Commercial area,1807,703,951,727
+8,Haryana,Market/ Commercial area,1313,511,387,754
+9,Himachal Pradesh,Market/ Commercial area,508,151,256,357
+10,Jharkhand,Market/ Commercial area,623,411,402,121
+11,Karnataka,Market/ Commercial area,4078,955,2356,2304
+12,Kerala,Market/ Commercial area,3154,280,2430,975
+13,Madhya Pradesh,Market/ Commercial area,6921,1084,976,6046
+14,Maharashtra*,Market/ Commercial area,2446,972,1403,618
+15,Manipur,Market/ Commercial area,75,15,24,64
+16,Meghalaya,Market/ Commercial area,27,22,24,2
+17,Mizoram,Market/ Commercial area,0,0,0,0
+18,Nagaland,Market/ Commercial area,375,21,33,83
+19,Orissa,Market/ Commercial area,1737,693,999,590
+20,Punjab,Market/ Commercial area,717,488,262,169
+21,Rajasthan,Market/ Commercial area,1821,582,437,1356
+22,Sikkim,Market/ Commercial area,32,17,36,32
+23,Tamil Nadu,Market/ Commercial area,11084,2642,5109,5676
+24,Telangana,Market/ Commercial area,3414,737,349,2853
+25,Tripura,Market/ Commercial area,90,32,90,3
+26,Uttarakhand,Market/ Commercial area,361,172,190,71
+27,Uttar Pradesh,Market/ Commercial area,6047,3355,2733,1361
+28,West Bengal,Market/ Commercial area,1483,712,1048,160
+29,A & N Islands,Market/ Commercial area,37,4,17,17
+30,Chandigarh,Market/ Commercial area,30,12,1,21
+31,D & N Haveli,Market/ Commercial area,17,13,12,4
+32,Daman & Diu,Market/ Commercial area,0,0,0,0
+33,Delhi,Market/ Commercial area,657,129,29,625
+34,Jammu & Kashmir,Market/ Commercial area,960,76,410,473
+35,Ladakh,Market/ Commercial area,30,5,9,33
+36,Lakshadweep,Market/ Commercial area,0,0,0,0
+37,Puducherry,Market/ Commercial area,409,46,156,245
+1,Andhra Pradesh,Open Area,11747,4907,2583,8874
+2,Arunachal Pradesh,Open Area,105,56,86,34
+3,Assam,Open Area,2309,1013,1570,175
+4,Bihar,Open Area,5900,4905,4608,186
+5,Chhattisgarh,Open Area,6899,3283,784,4866
+6,Goa,Open Area,1079,86,101,201
+7,Gujarat,Open Area,9158,4976,4792,3537
+8,Haryana,Open Area,4223,2130,582,2723
+9,Himachal Pradesh,Open Area,1438,716,740,1463
+10,Jharkhand,Open Area,2174,1715,1054,122
+11,Karnataka,Open Area,22954,7192,12579,14688
+12,Kerala,Open Area,6378,705,5127,1959
+13,Madhya Pradesh,Open Area,20597,6113,2380,18281
+14,Maharashtra*,Open Area,16361,8698,8670,3688
+15,Manipur,Open Area,88,35,61,66
+16,Meghalaya,Open Area,88,69,77,19
+17,Mizoram,Open Area,35,36,24,17
+18,Nagaland,Open Area,57,16,11,40
+19,Orissa,Open Area,5610,2748,2778,1977
+20,Punjab,Open Area,2961,2305,922,447
+21,Rajasthan,Open Area,12916,6892,3136,8865
+22,Sikkim,Open Area,88,26,59,46
+23,Tamil Nadu,Open Area,26662,8031,10642,16808
+24,Telangana,Open Area,9088,4207,1305,7502
+25,Tripura,Open Area,135,62,172,2
+26,Uttarakhand,Open Area,707,484,411,142
+27,Uttar Pradesh,Open Area,14355,8449,5932,3117
+28,West Bengal,Open Area,4368,2474,3421,600
+29,A & N Islands,Open Area,16,4,4,6
+30,Chandigarh,Open Area,160,79,6,127
+31,D & N Haveli,Open Area,20,11,15,6
+32,Daman & Diu,Open Area,0,0,0,0
+33,Delhi,Open Area,2129,637,63,1677
+34,Jammu & Kashmir,Open Area,2199,378,1692,1508
+35,Ladakh,Open Area,93,20,15,72
+36,Lakshadweep,Open Area,0,0,0,0
+37,Puducherry,Open Area,176,31,92,103
+1,Andhra Pradesh,Others,496,190,172,340
+2,Arunachal Pradesh,Others,31,17,22,8
+3,Assam,Others,1210,500,916,101
+4,Bihar,Others,0,0,0,0
+5,Chhattisgarh,Others,619,339,90,602
+6,Goa,Others,11,0,0,0
+7,Gujarat,Others,518,131,221,98
+8,Haryana,Others,2714,1339,706,1643
+9,Himachal Pradesh,Others,47,18,24,61
+10,Jharkhand,Others,505,378,266,106
+11,Karnataka,Others,1372,392,731,1167
+12,Kerala,Others,19485,1980,15487,6062
+13,Madhya Pradesh,Others,8643,2033,1195,7473
+14,Maharashtra*,Others,0,0,0,3
+15,Manipur,Others,0,0,0,0
+16,Meghalaya,Others,39,36,17,6
+17,Mizoram,Others,0,0,0,0
+18,Nagaland,Others,206,10,41,95
+19,Orissa,Others,1290,642,660,526
+20,Punjab,Others,659,542,229,137
+21,Rajasthan,Others,2179,1022,753,1116
+22,Sikkim,Others,0,0,0,0
+23,Tamil Nadu,Others,760,222,352,421
+24,Telangana,Others,4500,1364,340,3624
+25,Tripura,Others,0,0,0,0
+26,Uttarakhand,Others,18,13,21,15
+27,Uttar Pradesh,Others,6927,3774,2958,1868
+28,West Bengal,Others,1729,761,1164,333
+29,A & N Islands,Others,0,0,0,0
+30,Chandigarh,Others,0,0,0,0
+31,D & N Haveli,Others,11,5,8,4
+32,Daman & Diu,Others,0,0,0,0
+33,Delhi,Others,1000,228,40,856
+34,Jammu & Kashmir,Others,1239,188,1323,369
+35,Ladakh,Others,41,9,8,23
+36,Lakshadweep,Others,0,0,0,0
+37,Puducherry,Others,97,19,40,57

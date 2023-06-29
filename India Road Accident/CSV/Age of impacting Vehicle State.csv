@@ -1,0 +1,181 @@
+S.No,States/UTs,TIN,State Code,Age of impacting Vehicle,Total Accidents,Persons Killed,Greviously Injured,Minor Injury
+1,Andhra Pradesh,37,AD,Less than 5 years,7955,2953,2241,5257
+2,Arunachal Pradesh,12,AR,Less than 5 years,153,86,138,57
+3,Assam,18,AS,Less than 5 years,2632,1086,1866,180
+4,Bihar,10,BR,Less than 5 years,3859,2900,3262,195
+5,Chhattisgarh,22,CG,Less than 5 years,3725,1600,534,2926
+6,Goa,30,GA,Less than 5 years,1155,87,91,231
+7,Gujarat,24,GJ,Less than 5 years,4874,2207,2551,2166
+8,Haryana,6,HR,Less than 5 years,1078,486,237,621
+9,Himachal Pradesh,2,HP,Less than 5 years,1114,503,621,1097
+10,Jharkhand,20,JH,Less than 5 years,1336,997,758,203
+11,Karnataka,29,KA,Less than 5 years,13254,3788,7263,8367
+12,Kerala,32,KL,Less than 5 years,9041,899,7180,2750
+13,Madhya Pradesh,23,MP,Less than 5 years,12263,3079,1669,12508
+14,Maharashtra,27,MH,Less than 5 years,11914,5351,6549,2845
+15,Manipur,14,MN,Less than 5 years,82,22,41,85
+16,Meghalaya,17,ML,Less than 5 years,74,52,33,62
+17,Mizoram,15,MZ,Less than 5 years,41,26,14,17
+18,Nagaland,13,NL,Less than 5 years,284,13,23,73
+19,Orissa,21,OD,Less than 5 years,3266,1511,1603,1042
+20,Punjab,3,PB,Less than 5 years,1656,1238,562,312
+21,Rajasthan,8,RJ,Less than 5 years,8437,3909,2014,5913
+22,Sikkim,11,SK,Less than 5 years,41,15,38,22
+23,Tamil Nadu,33,TN,Less than 5 years,15647,4200,6610,9264
+24,Telangana,36,TS,Less than 5 years,9428,3254,1098,7929
+25,Tripura,16,TR,Less than 5 years,268,102,287,5
+26,Uttarakhand,9,UP,Less than 5 years,322,160,195,112
+27,Uttar Pradesh,5,UK,Less than 5 years,6528,3529,2882,1392
+28,West Bengal,19,WB,Less than 5 years,3560,1907,2711,397
+29,A & N Islands,35,AN,Less than 5 years,49,5,14,32
+30,Chandigarh,4,CH,Less than 5 years,0,0,0,0
+31,D & N Haveli,26,DNHDD,Less than 5 years,47,24,31,13
+33,Delhi*,7,DL,Less than 5 years,779,298,39,665
+34,Jammu & Kashmir,1,JK,Less than 5 years,1422,197,689,1089
+35,Ladakh,38,LA,Less than 5 years,88,28,16,59
+36,Lakshadweep,31,LD,Less than 5 years,0,0,0,0
+37,Puducherry,34,PY,Less than 5 years,332,31,167,204
+1,Andhra Pradesh,37,AD,5.1 - 10 Years,7395,2828,1950,5376
+2,Arunachal Pradesh,12,AR,5.1 - 10 Years,91,49,60,33
+3,Assam,18,AS,5.1 - 10 Years,1736,748,1131,134
+4,Bihar,10,BR,5.1 - 10 Years,2377,1915,2109,75
+5,Chhattisgarh,22,CG,5.1 - 10 Years,3058,1253,394,2197
+6,Goa,30,GA,5.1 - 10 Years,1301,109,103,324
+7,Gujarat,24,GJ,5.1 - 10 Years,4915,2237,2550,1948
+8,Haryana,6,HR,5.1 - 10 Years,910,411,200,518
+9,Himachal Pradesh,2,HP,5.1 - 10 Years,629,299,328,629
+10,Jharkhand,20,JH,5.1 - 10 Years,960,715,559,154
+11,Karnataka,29,KA,5.1 - 10 Years,11349,3319,6546,7030
+12,Kerala,32,KL,5.1 - 10 Years,9993,993,7908,3325
+13,Madhya Pradesh,23,MP,5.1 - 10 Years,9995,2751,1098,8706
+14,Maharashtra,27,MH,5.1 - 10 Years,8853,4146,4899,2170
+15,Manipur,14,MN,5.1 - 10 Years,168,45,63,162
+16,Meghalaya,17,ML,5.1 - 10 Years,60,49,80,15
+17,Mizoram,15,MZ,5.1 - 10 Years,20,23,21,13
+18,Nagaland,13,NL,5.1 - 10 Years,157,13,30,48
+19,Orissa,21,OD,5.1 - 10 Years,2752,1188,1463,1160
+20,Punjab,3,PB,5.1 - 10 Years,1391,1101,488,232
+21,Rajasthan,8,RJ,5.1 - 10 Years,5439,2595,1203,3950
+22,Sikkim,11,SK,5.1 - 10 Years,72,22,46,32
+23,Tamil Nadu,33,TN,5.1 - 10 Years,24248,6424,10406,14698
+24,Telangana,36,TS,5.1 - 10 Years,6178,2335,850,5215
+25,Tripura,16,TR,5.1 - 10 Years,170,72,213,3
+26,Uttarakhand,9,UP,5.1 - 10 Years,311,189,167,71
+27,Uttar Pradesh,5,UK,5.1 - 10 Years,6052,3266,2640,1330
+28,West Bengal,19,WB,5.1 - 10 Years,3095,1592,2500,425
+29,A & N Islands,35,AN,5.1 - 10 Years,24,4,3,12
+30,Chandigarh,4,CH,5.1 - 10 Years,0,0,0,0
+31,D & N Haveli,26,DNHDD,5.1 - 10 Years,40,22,25,21
+33,Delhi*,7,DL,5.1 - 10 Years,677,219,39,552
+34,Jammu & Kashmir,1,JK,5.1 - 10 Years,1262,190,745,932
+35,Ladakh,38,LA,5.1 - 10 Years,93,14,16,104
+36,Lakshadweep,31,LD,5.1 - 10 Years,0,0,0,0
+37,Puducherry,34,PY,5.1 - 10 Years,275,32,121,154
+1,Andhra Pradesh,37,AD,10.1 - 15 Years,2619,1010,621,1880
+2,Arunachal Pradesh,12,AR,10.1 - 15 Years,26,17,30,11
+3,Assam,18,AS,10.1 - 15 Years,877,310,653,92
+4,Bihar,10,BR,10.1 - 15 Years,947,706,1590,52
+5,Chhattisgarh,22,CG,10.1 - 15 Years,1085,453,156,936
+6,Goa,30,GA,10.1 - 15 Years,291,20,18,43
+7,Gujarat,24,GJ,10.1 - 15 Years,2323,1230,1327,910
+8,Haryana,6,HR,10.1 - 15 Years,674,326,60,410
+9,Himachal Pradesh,2,HP,10.1 - 15 Years,325,140,167,340
+10,Jharkhand,20,JH,10.1 - 15 Years,677,503,371,113
+11,Karnataka,29,KA,10.1 - 15 Years,4686,1291,2723,2846
+12,Kerala,32,KL,10.1 - 15 Years,3480,370,2784,1156
+13,Madhya Pradesh,23,MP,10.1 - 15 Years,7101,1624,819,4840
+14,Maharashtra,27,MH,10.1 - 15 Years,5154,2153,2850,1305
+15,Manipur,14,MN,10.1 - 15 Years,53,11,31,40
+16,Meghalaya,17,ML,10.1 - 15 Years,15,10,19,4
+17,Mizoram,15,MZ,10.1 - 15 Years,4,3,0,0
+18,Nagaland,13,NL,10.1 - 15 Years,97,4,10,36
+19,Orissa,21,OD,10.1 - 15 Years,1775,767,923,659
+20,Punjab,3,PB,10.1 - 15 Years,1433,1174,425,225
+21,Rajasthan,8,RJ,10.1 - 15 Years,2217,1086,465,1548
+22,Sikkim,11,SK,10.1 - 15 Years,27,13,32,28
+23,Tamil Nadu,33,TN,10.1 - 15 Years,7300,2047,3317,4328
+24,Telangana,36,TS,10.1 - 15 Years,2270,797,212,1839
+25,Tripura,16,TR,10.1 - 15 Years,31,14,34,0
+26,Uttarakhand,9,UP,10.1 - 15 Years,153,69,100,43
+27,Uttar Pradesh,5,UK,10.1 - 15 Years,6373,3469,2740,1479
+28,West Bengal,19,WB,10.1 - 15 Years,970,509,836,127
+29,A & N Islands,35,AN,10.1 - 15 Years,18,5,5,10
+30,Chandigarh,4,CH,10.1 - 15 Years,0,0,0,0
+31,D & N Haveli,26,DNHDD,10.1 - 15 Years,15,13,8,3
+33,Delhi*,7,DL,10.1 - 15 Years,376,102,21,361
+34,Jammu & Kashmir,1,JK,10.1 - 15 Years,193,19,223,81
+35,Ladakh,38,LA,10.1 - 15 Years,26,3,9,13
+36,Lakshadweep,31,LD,10.1 - 15 Years,1,1,0,0
+37,Puducherry,34,PY,10.1 - 15 Years,169,22,83,113
+1,Andhra Pradesh,37,AD,> 15 Years,1594,586,368,1036
+2,Arunachal Pradesh,12,AR,> 15 Years,7,3,5,5
+3,Assam,18,AS,> 15 Years,1011,357,738,81
+4,Bihar,10,BR,> 15 Years,1113,1039,357,36
+5,Chhattisgarh,22,CG,> 15 Years,1498,690,139,944
+6,Goa,30,GA,> 15 Years,63,7,5,23
+7,Gujarat,24,GJ,> 15 Years,1437,650,920,498
+8,Haryana,6,HR,> 15 Years,1430,775,443,1385
+9,Himachal Pradesh,2,HP,> 15 Years,148,68,63,110
+10,Jharkhand,20,JH,> 15 Years,356,248,225,67
+11,Karnataka,29,KA,> 15 Years,3448,824,1921,2417
+12,Kerala,32,KL,> 15 Years,1231,154,995,432
+13,Madhya Pradesh,23,MP,> 15 Years,8936,2173,1165,7470
+14,Maharashtra,27,MH,> 15 Years,1792,1001,888,389
+15,Manipur,14,MN,> 15 Years,30,19,5,25
+16,Meghalaya,17,ML,> 15 Years,26,17,6,6
+17,Mizoram,15,MZ,> 15 Years,3,3,0,0
+18,Nagaland,13,NL,> 15 Years,40,4,5,18
+19,Orissa,21,OD,> 15 Years,1755,790,1110,698
+20,Punjab,3,PB,> 15 Years,885,629,340,227
+21,Rajasthan,8,RJ,> 15 Years,1581,826,407,1000
+22,Sikkim,11,SK,> 15 Years,15,6,15,31
+23,Tamil Nadu,33,TN,> 15 Years,1919,583,854,1089
+24,Telangana,36,TS,> 15 Years,722,226,82,603
+25,Tripura,16,TR,> 15 Years,7,4,4,0
+26,Uttarakhand,9,UP,> 15 Years,383,260,245,14
+27,Uttar Pradesh,5,UK,> 15 Years,11254,6595,4819,2618
+28,West Bengal,19,WB,> 15 Years,1072,559,872,195
+29,A & N Islands,35,AN,> 15 Years,21,5,8,11
+30,Chandigarh,4,CH,> 15 Years,0,0,0,0
+31,D & N Haveli,26,DNHDD,> 15 Years,28,10,32,31
+33,Delhi*,7,DL,> 15 Years,1530,239,26,1523
+34,Jammu & Kashmir,1,JK,> 15 Years,134,23,57,92
+35,Ladakh,38,LA,> 15 Years,14,4,4,9
+36,Lakshadweep,31,LD,> 15 Years,3,0,0,6
+37,Puducherry,34,PY,> 15 Years,77,12,48,47
+1,Andhra Pradesh,37,AD,Age not known,1993,809,417,1894
+2,Arunachal Pradesh,12,AR,Age not known,6,2,4,4
+3,Assam,18,AS,Age not known,1155,535,824,64
+4,Bihar,10,BR,Age not known,1257,1100,255,15
+5,Chhattisgarh,22,CG,Age not known,3009,1375,318,2139
+6,Goa,30,GA,Age not known,39,3,1,4
+7,Gujarat,24,GJ,Age not known,1637,1128,501,319
+8,Haryana,6,HR,Age not known,5841,2708,1022,3225
+9,Himachal Pradesh,2,HP,Age not known,188,42,58,41
+10,Jharkhand,20,JH,Age not known,1399,1050,689,88
+11,Karnataka,29,KA,Age not known,1910,816,880,761
+12,Kerala,32,KL,Age not known,9551,1013,7628,2617
+13,Madhya Pradesh,23,MP,Age not known,10582,2430,1334,9347
+14,Maharashtra,27,MH,Age not known,1764,877,887,289
+15,Manipur,14,MN,Age not known,33,13,8,44
+16,Meghalaya,17,ML,Age not known,70,59,28,10
+17,Mizoram,15,MZ,Age not known,1,1,0,0
+18,Nagaland,13,NL,Age not known,168,21,54,83
+19,Orissa,21,OD,Age not known,1435,825,648,476
+20,Punjab,3,PB,Age not known,506,447,217,44
+21,Rajasthan,8,RJ,Age not known,3277,1627,1087,1757
+22,Sikkim,11,SK,Age not known,0,0,0,0
+23,Tamil Nadu,33,TN,Age not known,6568,2130,1956,3474
+24,Telangana,36,TS,Age not known,2717,945,328,1951
+25,Tripura,16,TR,Age not known,3,2,1,0
+26,Uttarakhand,9,UP,Age not known,236,142,101,43
+27,Uttar Pradesh,5,UK,Age not known,7522,4368,3065,1932
+28,West Bengal,19,WB,Age not known,3240,1233,1757,634
+29,A & N Islands,35,AN,Age not known,3,1,1,1
+30,Chandigarh,4,CH,Age not known,0,0,0,0
+31,D & N Haveli,26,DNHDD,Age not known,10,7,5,2
+33,Delhi*,7,DL,Age not known,1358,381,54,993
+34,Jammu & Kashmir,1,JK,Age not known,2441,345,2269,795
+35,Ladakh,38,LA,Age not known,15,7,5,7
+36,Lakshadweep,31,LD,Age not known,0,0,0,0
+37,Puducherry,34,PY,Age not known,196,43,53,109

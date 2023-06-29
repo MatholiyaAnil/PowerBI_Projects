@@ -1,0 +1,73 @@
+S. No.,States/UTs,TIN,State Code,Area,Total Accidents,Persons Killed,Greviously Injured,Minor Injury
+1,Andhra Pradesh,37,AD,Urban,7034,1797,1910,4020
+2,Arunachal Pradesh,12,AR,Urban,201,113,186,91
+3,Assam,18,AS,Urban,3219,1294,2042,239
+4,Bihar,10,BR,Urban,2752,2084,2198,87
+5,Chhattisgarh,22,CG,Urban,3884,978,393,2773
+6,Goa,30,GA,Urban,689,55,60,248
+7,Gujarat,24,GJ,Urban,5703,2061,2783,1902
+8,Haryana,6,HR,Urban,4231,1908,911,2479
+9,Himachal Pradesh,2,HP,Urban,373,84,175,253
+10,Jharkhand,20,JH,Urban,1589,1207,969,213
+11,Karnataka,29,KA,Urban,11654,2659,6587,5739
+12,Kerala,32,KL,Urban,9296,908,7212,2649
+13,Madhya Pradesh,23,MP,Urban,20702,3495,2154,17439
+14,Maharashtra,27,MH,Urban,11327,3692,6311,2842
+15,Manipur,14,MN,Urban,110,30,35,102
+16,Meghalaya,17,ML,Urban,80,38,37,45
+17,Mizoram,15,MZ,Urban,31,16,9,12
+18,Nagaland,13,NL,Urban,646,41,102,220
+19,Odisha,21,OD,Urban,3722,1553,1977,1184
+20,Punjab,3,PB,Urban,2435,1757,804,498
+21,Rajasthan,8,RJ,Urban,6565,2455,1794,4209
+22,Sikkim,11,SK,Urban,65,25,60,52
+23,Tamil Nadu,33,TN,Urban,16122,3846,8110,7637
+24,Telangana,36,TS,Urban,12011,2873,1239,9846
+25,Tripura,16,TR,Urban,180,50,168,5
+26,Uttarakhand,9,UP,Urban,678,328,372,111
+27,Uttar Pradesh,5,UK,Urban,15990,8834,6611,4055
+28,West Bengal,19,WB,Urban,4338,1468,2784,803
+29,A & N Islands,35,AN,Urban,54,12,19,21
+30,Chandigarh,4,CH,Urban,203,91,9,162
+31,D & N Haveli,26,DNHDD,Urban,24,14,9,2
+33,Delhi,7,DL,Urban,4498,1179,163,3882
+34,Jammu & Kashmir,1,JK,Urban,1615,189,1420,557
+35,Ladakh,38,LA,Urban,90,25,21,70
+36,Lakshadweep,31,LD,Urban,0,0,0,0
+37,Puducherry,34,PY,Urban,475,76,280,358
+1,Andhra Pradesh,37,AD,Rural,14522,6389,3687,11423
+2,Arunachal Pradesh,12,AR,Rural,82,44,51,19
+3,Assam,18,AS,Rural,4192,1742,3170,312
+4,Bihar,10,BR,Rural,6801,5576,5375,286
+5,Chhattisgarh,22,CG,Rural,8491,4393,1148,6369
+6,Goa,30,GA,Rural,2160,171,158,377
+7,Gujarat,24,GJ,Rural,9483,5391,5066,3939
+8,Haryana,6,HR,Rural,5702,2798,1051,3680
+9,Himachal Pradesh,2,HP,Rural,2031,968,1062,1964
+10,Jharkhand,20,JH,Rural,3139,2306,1633,412
+11,Karnataka,29,KA,Rural,22993,7379,12746,15682
+12,Kerala,32,KL,Rural,24000,2521,19283,7631
+13,Madhya Pradesh,23,MP,Rural,28175,8562,3931,25432
+14,Maharashtra,27,MH,Rural,18150,9836,9762,4156
+15,Manipur,14,MN,Rural,256,80,113,254
+16,Meghalaya,17,ML,Rural,165,149,129,52
+17,Mizoram,15,MZ,Rural,38,40,26,18
+18,Nagaland,13,NL,Rural,100,14,20,38
+19,Odisha,21,OD,Rural,7261,3528,3770,2851
+20,Punjab,3,PB,Rural,3436,2832,1228,542
+21,Rajasthan,8,RJ,Rural,14386,7588,3382,9959
+22,Sikkim,11,SK,Rural,90,31,71,61
+23,Tamil Nadu,33,TN,Rural,39560,11538,15033,25216
+24,Telangana,36,TS,Rural,9304,4684,1331,7691
+25,Tripura,16,TR,Rural,299,144,371,3
+26,Uttarakhand,9,UP,Rural,727,492,436,172
+27,Uttar Pradesh,5,UK,Rural,21739,12393,9535,4696
+28,West Bengal,19,WB,Rural,7599,4332,5892,975
+29,A & N Islands,35,AN,Rural,61,8,12,45
+30,Chandigarh,4,CH,Rural,5,5,0,1
+31,D & N Haveli,26,DNHDD,Rural,116,62,92,68
+33,Delhi,7,DL,Rural,222,60,16,212
+34,Jammu & Kashmir,1,JK,Rural,3837,585,2563,2432
+35,Ladakh,38,LA,Rural,146,31,29,122
+36,Lakshadweep,31,LD,Rural,4,1,0,6
+37,Puducherry,34,PY,Rural,574,64,192,269

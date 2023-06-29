@@ -1,0 +1,334 @@
+S. No.,States/UTs,Vehicle Type,Total Road Accidents,Killed,Greviously Injured,Minor Injured
+1,Andhra Pradesh,Pedestrian,3397,1346,809,1546
+2,Arunachal Pradesh,Pedestrian,5,2,4,2
+3,Assam,Pedestrian,1538,713,843,109
+4,Bihar,Pedestrian,3288,2798,1883,61
+5,Chhattisgarh,Pedestrian,1640,701,214,912
+6,Goa,Pedestrian,82,36,19,24
+7,Gujarat,Pedestrian,2674,1473,975,489
+8,Haryana,Pedestrian,2568,1233,502,1333
+9,Himachal Pradesh,Pedestrian,534,164,271,213
+10,Jharkhand,Pedestrian,680,496,275,40
+11,Karnataka,Pedestrian,5579,1680,2877,1671
+12,Kerala(*),Pedestrian,0,818,4762,1151
+13,Madhya Pradesh,Pedestrian,6810,1715,781,5262
+14,Maharashtra,Pedestrian,6148,2677,2953,914
+15,Manipur,Pedestrian,69,19,17,43
+16,Meghalaya,Pedestrian,74,54,24,9
+17,Mizoram,Pedestrian,8,6,2,4
+18,Nagaland,Pedestrian,20,12,4,5
+19,Odisha,Pedestrian,1209,602,512,255
+20,Punjab,Pedestrian,591,461,146,36
+21,Rajasthan,Pedestrian,2744,1291,512,1375
+22,Sikkim,Pedestrian,17,4,8,9
+23,Tamil Nadu,Pedestrian,12541,3647,4893,4762
+24,Telangana,Pedestrian,3695,1310,347,2352
+25,Tripura,Pedestrian,148,60,93,1
+26,Uttarakhand,Pedestrian,386,193,190,41
+27,Uttar Pradesh,Pedestrian,3676,1985,1451,693
+28,West Bengal,Pedestrian,5381,2911,2864,397
+29,A & N  Islands,Pedestrian,22,9,6,12
+30,Chandigarh,Pedestrian,41,24,1,18
+31,D & N Haveli,Pedestrian,42,29,15,7
+32,Daman & Diu,Pedestrian,0,0,0,0
+33,Delhi,Pedestrian,1898,504,70,1466
+34,Jammu & Kashmir,Pedestrian,333,101,198,556
+35,Ladakh,Pedestrian,1,1,0,0
+36,Lakshadweep,Pedestrian,0,0,0,0
+37,Puducherry,Pedestrian,214,49,87,91
+1,Andhra Pradesh,Bicycles,428,194,120,183
+2,Arunachal Pradesh,Bicycles,0,0,0,0
+3,Assam,Bicycles,384,257,259,105
+4,Bihar,Bicycles,625,495,543,27
+5,Chhattisgarh,Bicycles,435,154,67,259
+6,Goa,Bicycles,13,6,2,4
+7,Gujarat,Bicycles,281,111,125,58
+8,Haryana,Bicycles,274,122,62,183
+9,Himachal Pradesh,Bicycles,23,9,8,6
+10,Jharkhand,Bicycles,190,135,75,12
+11,Karnataka,Bicycles,321,71,200,106
+12,Kerala(*),Bicycles,1,90,684,162
+13,Madhya Pradesh,Bicycles,696,114,132,630
+14,Maharashtra,Bicycles,409,143,169,108
+15,Manipur,Bicycles,16,7,0,11
+16,Meghalaya,Bicycles,3,2,1,0
+17,Mizoram,Bicycles,0,0,0,0
+18,Nagaland,Bicycles,6,2,2,3
+19,Odisha,Bicycles,413,178,191,94
+20,Punjab,Bicycles,339,196,122,45
+21,Rajasthan,Bicycles,105,70,23,114
+22,Sikkim,Bicycles,0,0,0,0
+23,Tamil Nadu,Bicycles,1813,467,743,730
+24,Telangana,Bicycles,205,68,18,122
+25,Tripura,Bicycles,33,14,19,0
+26,Uttarakhand,Bicycles,43,21,34,11
+27,Uttar Pradesh,Bicycles,2257,1228,943,543
+28,West Bengal,Bicycles,952,492,501,84
+29,A & N  Islands,Bicycles,2,0,1,1
+30,Chandigarh,Bicycles,28,17,0,14
+31,D & N Haveli,Bicycles,4,3,1,0
+32,Daman & Diu,Bicycles,0,0,0,0
+33,Delhi,Bicycles,147,45,5,118
+34,Jammu & Kashmir,Bicycles,22,12,1,56
+35,Ladakh,Bicycles,0,0,0,0
+36,Lakshadweep,Bicycles,1,1,0,0
+37,Puducherry,Bicycles,89,18,51,47
+1,Andhra Pradesh,Two Wheelers,11853,4634,3200,8298
+2,Arunachal Pradesh,Two Wheelers,121,78,121,39
+3,Assam,Two Wheelers,2196,997,1422,113
+4,Bihar,Two Wheelers,3123,2657,2586,163
+5,Chhattisgarh,Two Wheelers,7093,3375,1009,5422
+6,Goa,Two Wheelers,1346,133,139,379
+7,Gujarat,Two Wheelers,6900,3522,3866,2528
+8,Haryana,Two Wheelers,4195,1826,637,2494
+9,Himachal Pradesh,Two Wheelers,433,268,489,531
+10,Jharkhand,Two Wheelers,1605,1222,944,342
+11,Karnataka,Two Wheelers,16101,4938,9520,9721
+12,Kerala(*),Two Wheelers,13624,1998,17809,6029
+13,Madhya Pradesh,Two Wheelers,21941,5742,2873,20569
+14,Maharashtra,Two Wheelers,14096,6943,7527,3102
+15,Manipur,Two Wheelers,164,44,59,172
+16,Meghalaya,Two Wheelers,63,39,35,12
+17,Mizoram,Two Wheelers,14,17,4,6
+18,Nagaland,Two Wheelers,129,13,28,45
+19,Odisha,Two Wheelers,5085,2531,2679,1448
+20,Punjab,Two Wheelers,2779,2196,995,600
+21,Rajasthan,Two Wheelers,7361,4111,2110,5790
+22,Sikkim,Two Wheelers,0,0,0,0
+23,Tamil Nadu,Two Wheelers,34369,9392,15040,19657
+24,Telangana,Two Wheelers,10598,4082,1481,8794
+25,Tripura,Two Wheelers,144,61,164,2
+26,Uttarakhand,Two Wheelers,710,435,386,106
+27,Uttar Pradesh,Two Wheelers,12091,6803,5199,2678
+28,West Bengal,Two Wheelers,1776,662,1391,343
+29,A & N  Islands,Two Wheelers,58,8,19,30
+30,Chandigarh,Two Wheelers,80,40,5,71
+31,D & N Haveli,Two Wheelers,71,40,67,18
+32,Daman & Diu,Two Wheelers,0,0,0,0
+33,Delhi,Two Wheelers,1935,471,85,1781
+34,Jammu & Kashmir,Two Wheelers,1245,200,1519,827
+35,Ladakh,Two Wheelers,14,4,1,6
+36,Lakshadweep,Two Wheelers,3,0,0,6
+37,Puducherry,Two Wheelers,639,62,287,423
+1,Andhra Pradesh,Auto Rickshaws,1478,548,558,2143
+2,Arunachal Pradesh,Auto Rickshaws,18,8,24,9
+3,Assam,Auto Rickshaws,528,106,512,34
+4,Bihar,Auto Rickshaws,558,404,781,40
+5,Chhattisgarh,Auto Rickshaws,140,59,20,128
+6,Goa,Auto Rickshaws,15,0,3,0
+7,Gujarat,Auto Rickshaws,976,376,642,529
+8,Haryana,Auto Rickshaws,260,219,77,268
+9,Himachal Pradesh,Auto Rickshaws,2,2,8,7
+10,Jharkhand,Auto Rickshaws,366,249,259,42
+11,Karnataka,Auto Rickshaws,1573,336,982,1262
+12,Kerala(*),Auto Rickshaws,3224,183,1331,923
+13,Madhya Pradesh,Auto Rickshaws,1961,341,254,1729
+14,Maharashtra,Auto Rickshaws,1109,371,709,388
+15,Manipur,Auto Rickshaws,11,2,8,6
+16,Meghalaya,Auto Rickshaws,6,1,10,0
+17,Mizoram,Auto Rickshaws,0,0,0,0
+18,Nagaland,Auto Rickshaws,118,2,12,43
+19,Odisha,Auto Rickshaws,502,194,304,315
+20,Punjab,Auto Rickshaws,304,228,139,43
+21,Rajasthan,Auto Rickshaws,285,119,85,236
+22,Sikkim,Auto Rickshaws,0,0,0,0
+23,Tamil Nadu,Auto Rickshaws,1019,206,476,1119
+24,Telangana,Auto Rickshaws,1135,357,179,1679
+25,Tripura,Auto Rickshaws,33,13,56,0
+26,Uttarakhand,Auto Rickshaws,18,14,23,4
+27,Uttar Pradesh,Auto Rickshaws,2750,1364,1269,738
+28,West Bengal,Auto Rickshaws,149,59,107,27
+29,A & N  Islands,Auto Rickshaws,5,1,1,5
+30,Chandigarh,Auto Rickshaws,17,7,0,26
+31,D & N Haveli,Auto Rickshaws,4,1,6,7
+32,Daman & Diu,Auto Rickshaws,0,0,0,0
+33,Delhi,Auto Rickshaws,152,36,2,168
+34,Jammu & Kashmir,Auto Rickshaws,41,11,58,45
+35,Ladakh,Auto Rickshaws,0,0,0,0
+36,Lakshadweep,Auto Rickshaws,0,0,0,0
+37,Puducherry,Auto Rickshaws,7,0,3,9
+1,Andhra Pradesh,"Cars, Taxis & Vans",2116,596,443,1609
+2,Arunachal Pradesh,"Cars, Taxis & Vans",97,53,61,28
+3,Assam,"Cars, Taxis & Vans",1301,455,1012,102
+4,Bihar,"Cars, Taxis & Vans",752,504,732,38
+5,Chhattisgarh,"Cars, Taxis & Vans",1606,336,107,1227
+6,Goa,"Cars, Taxis & Vans",953,17,39,154
+7,Gujarat,"Cars, Taxis & Vans",2250,939,1305,1264
+8,Haryana,"Cars, Taxis & Vans",1338,563,247,892
+9,Himachal Pradesh,"Cars, Taxis & Vans",932,471,361,1007
+10,Jharkhand,"Cars, Taxis & Vans",742,510,460,86
+11,Karnataka,"Cars, Taxis & Vans",5594,1351,2760,4950
+12,Kerala(*),"Cars, Taxis & Vans",12031,220,1261,1359
+13,Madhya Pradesh,"Cars, Taxis & Vans",6938,1668,725,5974
+14,Maharashtra,"Cars, Taxis & Vans",4178,1689,2767,1250
+15,Manipur,"Cars, Taxis & Vans",50,16,17,66
+16,Meghalaya,"Cars, Taxis & Vans",66,55,54,40
+17,Mizoram,"Cars, Taxis & Vans",29,25,27,12
+18,Nagaland,"Cars, Taxis & Vans",373,18,55,117
+19,Odisha,"Cars, Taxis & Vans",1429,535,854,703
+20,Punjab,"Cars, Taxis & Vans",1618,1296,571,295
+21,Rajasthan,"Cars, Taxis & Vans",5264,2091,1329,3621
+22,Sikkim,"Cars, Taxis & Vans",77,17,35,36
+23,Tamil Nadu,"Cars, Taxis & Vans",3395,935,1250,4326
+24,Telangana,"Cars, Taxis & Vans",2906,604,300,2437
+25,Tripura,"Cars, Taxis & Vans",73,29,108,3
+26,Uttarakhand,"Cars, Taxis & Vans",149,55,116,66
+27,Uttar Pradesh,"Cars, Taxis & Vans",6022,3452,2582,1460
+28,West Bengal,"Cars, Taxis & Vans",1400,678,1544,288
+29,A & N  Islands,"Cars, Taxis & Vans",22,1,3,14
+30,Chandigarh,"Cars, Taxis & Vans",33,6,0,26
+31,D & N Haveli,"Cars, Taxis & Vans",15,2,11,19
+32,Daman & Diu,"Cars, Taxis & Vans",0,0,0,0
+33,Delhi,"Cars, Taxis & Vans",254,66,6,241
+34,Jammu & Kashmir,"Cars, Taxis & Vans",1799,200,1211,867
+35,Ladakh,"Cars, Taxis & Vans",138,34,27,122
+36,Lakshadweep,"Cars, Taxis & Vans",0,0,0,0
+37,Puducherry,"Cars, Taxis & Vans",50,1,32,29
+1,Andhra Pradesh,Trucks/Lorries,1166,374,314,653
+2,Arunachal Pradesh,Trucks/Lorries,24,9,12,15
+3,Assam,Trucks/Lorries,624,175,473,15
+4,Bihar,Trucks/Lorries,248,125,127,11
+5,Chhattisgarh,Trucks/Lorries,544,265,48,408
+6,Goa,Trucks/Lorries,317,8,8,32
+7,Gujarat,Trucks/Lorries,1300,570,510,493
+8,Haryana,Trucks/Lorries,439,256,95,236
+9,Himachal Pradesh,Trucks/Lorries,293,80,58,190
+10,Jharkhand,Trucks/Lorries,550,383,185,30
+11,Karnataka,Trucks/Lorries,2298,622,869,1434
+12,Kerala(*),Trucks/Lorries,2244,44,99,58
+13,Madhya Pradesh,Trucks/Lorries,3145,849,318,2235
+14,Maharashtra,Trucks/Lorries,1417,643,720,387
+15,Manipur,Trucks/Lorries,37,14,37,47
+16,Meghalaya,Trucks/Lorries,21,20,17,3
+17,Mizoram,Trucks/Lorries,18,8,2,8
+18,Nagaland,Trucks/Lorries,88,6,19,30
+19,Odisha,Trucks/Lorries,1076,431,476,388
+20,Punjab,Trucks/Lorries,64,53,15,8
+21,Rajasthan,Trucks/Lorries,2246,1027,401,1111
+22,Sikkim,Trucks/Lorries,21,7,15,10
+23,Tamil Nadu,Trucks/Lorries,1028,270,294,830
+24,Telangana,Trucks/Lorries,1350,511,116,964
+25,Tripura,Trucks/Lorries,21,10,25,0
+26,Uttarakhand,Trucks/Lorries,32,12,15,2
+27,Uttar Pradesh,Trucks/Lorries,3374,1954,1406,774
+28,West Bengal,Trucks/Lorries,1424,548,1441,322
+29,A & N  Islands,Trucks/Lorries,3,0,1,3
+30,Chandigarh,Trucks/Lorries,3,0,3,3
+31,D & N Haveli,Trucks/Lorries,3,1,1,5
+32,Daman & Diu,Trucks/Lorries,0,0,0,0
+33,Delhi,Trucks/Lorries,19,6,1,13
+34,Jammu & Kashmir,Trucks/Lorries,769,84,291,234
+35,Ladakh,Trucks/Lorries,77,17,22,58
+36,Lakshadweep,Trucks/Lorries,0,0,0,0
+37,Puducherry,Trucks/Lorries,4,0,0,3
+1,Andhra Pradesh,Buses,305,127,63,493
+2,Arunachal Pradesh,Buses,18,7,15,17
+3,Assam,Buses,314,134,387,40
+4,Bihar,Buses,135,71,159,4
+5,Chhattisgarh,Buses,68,29,5,140
+6,Goa,Buses,47,1,1,5
+7,Gujarat,Buses,248,79,175,269
+8,Haryana,Buses,142,68,73,162
+9,Himachal Pradesh,Buses,57,23,24,226
+10,Jharkhand,Buses,113,90,89,18
+11,Karnataka,Buses,686,177,406,1061
+12,Kerala(*),Buses,1391,25,275,457
+13,Madhya Pradesh,Buses,1450,293,197,1575
+14,Maharashtra,Buses,348,92,318,383
+15,Manipur,Buses,2,0,0,1
+16,Meghalaya,Buses,4,9,22,29
+17,Mizoram,Buses,0,0,0,0
+18,Nagaland,Buses,12,2,2,15
+19,Odisha,Buses,335,127,264,282
+20,Punjab,Buses,23,21,19,0
+21,Rajasthan,Buses,648,253,269,764
+22,Sikkim,Buses,0,0,0,0
+23,Tamil Nadu,Buses,767,163,254,983
+24,Telangana,Buses,345,68,69,456
+25,Tripura,Buses,5,1,8,0
+26,Uttarakhand,Buses,5,0,7,0
+27,Uttar Pradesh,Buses,1900,1077,953,603
+28,West Bengal,Buses,328,119,478,219
+29,A & N  Islands,Buses,3,1,0,1
+30,Chandigarh,Buses,2,1,0,1
+31,D & N Haveli,Buses,1,0,0,14
+32,Daman & Diu,Buses,0,0,0,0
+33,Delhi,Buses,3,0,0,4
+34,Jammu & Kashmir,Buses,412,18,166,73
+35,Ladakh,Buses,0,0,0,0
+36,Lakshadweep,Buses,0,0,0,0
+37,Puducherry,Buses,9,0,2,0
+1,Andhra Pradesh,Non-motorized vehicle,43,10,9,48
+2,Arunachal Pradesh,Non-motorized vehicle,0,0,0,0
+3,Assam,Non-motorized vehicle,234,101,145,10
+4,Bihar,Non-motorized vehicle,145,97,135,13
+5,Chhattisgarh,Non-motorized vehicle,21,2,0,18
+6,Goa,Non-motorized vehicle,0,0,0,0
+7,Gujarat,Non-motorized vehicle,72,42,54,44
+8,Haryana,Non-motorized vehicle,88,31,35,75
+9,Himachal Pradesh,Non-motorized vehicle,0,0,0,0
+10,Jharkhand,Non-motorized vehicle,179,143,159,26
+11,Karnataka,Non-motorized vehicle,32,18,19,7
+12,Kerala(*),Non-motorized vehicle,2,0,7,1
+13,Madhya Pradesh,Non-motorized vehicle,1270,258,147,1533
+14,Maharashtra,Non-motorized vehicle,143,43,47,19
+15,Manipur,Non-motorized vehicle,2,0,4,0
+16,Meghalaya,Non-motorized vehicle,0,0,0,0
+17,Mizoram,Non-motorized vehicle,0,0,0,0
+18,Nagaland,Non-motorized vehicle,0,0,0,0
+19,Odisha,Non-motorized vehicle,93,40,54,13
+20,Punjab,Non-motorized vehicle,88,70,10,13
+21,Rajasthan,Non-motorized vehicle,496,160,63,226
+22,Sikkim,Non-motorized vehicle,0,0,0,0
+23,Tamil Nadu,Non-motorized vehicle,74,27,27,37
+24,Telangana,Non-motorized vehicle,148,39,12,138
+25,Tripura,Non-motorized vehicle,5,0,11,0
+26,Uttarakhand,Non-motorized vehicle,11,9,6,3
+27,Uttar Pradesh,Non-motorized vehicle,1969,1221,661,485
+28,West Bengal,Non-motorized vehicle,40,12,41,6
+29,A & N  Islands,Non-motorized vehicle,0,0,0,0
+30,Chandigarh,Non-motorized vehicle,4,1,0,4
+31,D & N Haveli,Non-motorized vehicle,0,0,0,0
+32,Daman & Diu,Non-motorized vehicle,0,0,0,0
+33,Delhi,Non-motorized vehicle,107,13,5,128
+34,Jammu & Kashmir,Non-motorized vehicle,5,1,1,2
+35,Ladakh,Non-motorized vehicle,0,0,0,0
+36,Lakshadweep,Non-motorized vehicle,0,0,0,0
+37,Puducherry,Non-motorized vehicle,2,0,1,1
+1,Andhra Pradesh,Others,770,357,81,470
+2,Arunachal Pradesh,Others,0,0,0,0
+3,Assam,Others,292,98,159,23
+4,Bihar,Others,679,509,627,16
+5,Chhattisgarh,Others,828,450,71,628
+6,Goa,Others,76,25,7,27
+7,Gujarat,Others,485,340,197,167
+8,Haryana,Others,629,388,234,516
+9,Himachal Pradesh,Others,130,35,18,37
+10,Jharkhand,Others,303,285,156,29
+11,Karnataka,Others,2463,845,1700,1209
+12,Kerala(*),Others,779,51,267,140
+13,Madhya Pradesh,Others,4666,1077,658,3364
+14,Maharashtra,Others,1629,927,863,447
+15,Manipur,Others,15,8,6,10
+16,Meghalaya,Others,8,7,3,4
+17,Mizoram,Others,0,0,0,0
+18,Nagaland,Others,0,0,0,0
+19,Odisha,Others,841,443,413,537
+20,Punjab,Others,65,68,15,0
+21,Rajasthan,Others,1802,921,384,931
+22,Sikkim,Others,40,28,73,58
+23,Tamil Nadu,Others,676,277,166,409
+24,Telangana,Others,933,518,48,595
+25,Tripura,Others,17,6,55,2
+26,Uttarakhand,Others,51,81,31,50
+27,Uttar Pradesh,Others,3690,2143,1682,777
+28,West Bengal,Others,487,319,309,92
+29,A & N  Islands,Others,0,0,0,0
+30,Chandigarh,Others,0,0,0,0
+31,D & N Haveli,Others,0,0,0,0
+32,Daman & Diu,Others,0,0,0,0
+33,Delhi,Others,205,98,5,175
+34,Jammu & Kashmir,Others,826,147,538,329
+35,Ladakh,Others,6,0,0,6
+36,Lakshadweep,Others,0,0,0,0
+37,Puducherry,Others,35,10,9,24
